@@ -1,6 +1,4 @@
-package java.com.mh.framework.config;
-
-import java.com.mh.framework.base.BrowserType;
+package java.com.main.mh.framework.config;
 
 import java.sql.Connection;
 
@@ -20,5 +18,5 @@ public class Settings {
     public static String DriverType;
     public static String ExcelSheetPath;
     public static String AUT;
-    public static BrowserType BrowserType;
+    public static java.com.main.mh.framework.base.BrowserType BrowserType;
 }

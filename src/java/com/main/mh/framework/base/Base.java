@@ -1,4 +1,4 @@
-package java.com.mh.framework.base;
+package java.com.main.mh.framework.base;
 
 import org.openqa.selenium.support.PageFactory;
 

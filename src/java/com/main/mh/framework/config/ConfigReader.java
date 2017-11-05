@@ -1,6 +1,6 @@
-package java.com.mh.framework.config;
+package java.com.main.mh.framework.config;
 
-import java.com.mh.framework.base.BrowserType;
+import java.com.main.mh.framework.base.BrowserType;
 
 import java.io.IOException;
 import java.util.Properties;
