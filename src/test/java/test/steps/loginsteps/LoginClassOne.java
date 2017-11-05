@@ -1,10 +1,10 @@
 package java.test.steps.loginsteps;
 
-import java.com.main.mh.framework.base.DriverContext;
-import java.com.main.mh.framework.base.FrameworkInitilialize;
-import java.com.main.mh.framework.config.ConfigReader;
-import java.com.main.mh.framework.config.Settings;
-import java.com.main.mh.framework.utilities.ExcelUtil;
+import java.main.mh.framework.base.DriverContext;
+import java.main.mh.framework.base.FrameworkInitilialize;
+import java.main.mh.framework.config.ConfigReader;
+import java.main.mh.framework.config.Settings;
+import java.main.mh.framework.utilities.ExcelUtil;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 

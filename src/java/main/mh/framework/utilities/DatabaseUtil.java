@@ -1,4 +1,4 @@
-package java.com.main.mh.framework.utilities;
+package java.main.mh.framework.utilities;
 
 import java.sql.*;
 import java.util.Enumeration;

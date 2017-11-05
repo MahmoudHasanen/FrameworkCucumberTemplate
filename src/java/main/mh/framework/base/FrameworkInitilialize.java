@@ -1,4 +1,4 @@
-package java.com.main.mh.framework.base;
+package java.main.mh.framework.base;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
